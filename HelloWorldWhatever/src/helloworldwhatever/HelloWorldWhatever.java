@@ -5,21 +5,15 @@
  */
 package helloworldwhatever;
 
-/**
- *
- * @author james
- */
 public class HelloWorldWhatever {
 
-    /**
-     * @param args the command line arguments
-     */
+	//LMAO HACKED
+
     public static void main(String[] args) {
-        // TODO code application logic here
-    System.out.println("Hello world!");
-    for (int i = 1; i <= 10; i++)
-        {
-         System.out.println(i);
+    	
+    	System.out.println("Hello world!");
+    	for (int i = 1; i <= 10; i++){
+    		System.out.println(i);
         }
     }
     
